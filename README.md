@@ -4,6 +4,13 @@
 
 [Awesome Angular](https://github.com/Angular-RU/angular-awesome-list) (RU)
 
+# Core 
+
+[Architecture overview from docs](https://angular.io/guide/architecture) (EN)
+
+[The Core Concepts of Angular](https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04) (EN)
+
+
 # Angular SSR
 
 [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web) (EN)
