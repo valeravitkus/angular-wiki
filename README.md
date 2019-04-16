@@ -8,3 +8,7 @@
 
 [Server-side Rendering (SSR): An intro to Angular Universal](https://angular.io/guide/universal)
 
+# Change Detection
+
+[Change Detection in Angular](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
+
