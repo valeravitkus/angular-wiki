@@ -1,6 +1,6 @@
 ### angular-wiki
 
-#Resourse collections
+# Resourse collections
 
 [Awesome Angular](https://github.com/Angular-RU/angular-awesome-list) (RU)
 
