@@ -35,4 +35,4 @@
 
 ## RxJS 
 
-[RxJS: Understanding Subjects] (https://blog.angularindepth.com/rxjs-understanding-subjects-5c585188c3e1)
+[RxJS: Understanding Subjects](https://blog.angularindepth.com/rxjs-understanding-subjects-5c585188c3e1)
