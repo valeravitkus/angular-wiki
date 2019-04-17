@@ -1,17 +1,17 @@
 ### angular-wiki
 
-# Resourse collections
+## Resourse collections
 
 [Awesome Angular](https://github.com/Angular-RU/angular-awesome-list) (RU)
 
-# Core 
+## Core 
 
 [Architecture overview from docs](https://angular.io/guide/architecture) (EN)
 
 [The Core Concepts of Angular](https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04) (EN)
 
 
-# Angular SSR
+## Angular SSR
 
 [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web) (EN)
 
@@ -19,10 +19,14 @@
 
 [Server-side Rendering (SSR): An intro to Angular Universal](https://angular.io/guide/universal) (EN)
 
-# Change Detection
+## Change Detection
 
 [Change Detection in Angular](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c) (EN)
 
-# Performance optimize 
+## Performance optimize 
 
 [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist/blob/master/README.ru-RU.md) (RU)
+
+## Runtime Configuration
+
+[Compile-time vs. Runtime configuration of your Angular App](https://juristr.com/blog/2018/01/ng-app-runtime-config/)
