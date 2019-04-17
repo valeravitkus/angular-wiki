@@ -30,3 +30,4 @@
 ## Runtime Configuration
 
 [Compile-time vs. Runtime configuration of your Angular App](https://juristr.com/blog/2018/01/ng-app-runtime-config/)
+[Angular Runtime Configuration Loader Lib NPM](https://www.npmjs.com/package/runtime-config-loader)
