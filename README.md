@@ -23,6 +23,10 @@
 
 [Change Detection in Angular](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c) (EN)
 
+## Dependency injection
+
+[Angular 2 и внедрение зависимостей](https://habr.com/ru/post/281449/)
+
 ## Performance optimize 
 
 [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist/blob/master/README.ru-RU.md) (RU)
