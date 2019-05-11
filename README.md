@@ -31,6 +31,8 @@
 
 [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist/blob/master/README.ru-RU.md) (RU)
 
+[The Complete Guide to Angular Performance Tuning](https://christianlydemann.com/the-complete-guide-to-angular-performance-tuning/)
+
 ## Runtime Configuration
 
 [Compile-time vs. Runtime configuration of your Angular App](https://juristr.com/blog/2018/01/ng-app-runtime-config/)
@@ -46,3 +48,5 @@
 ## Debug
 
 [Как дебажить фронтенд и бекенд: пошаговая инструкция](https://habr.com/ru/post/439162/)
+
+[The Ultimate Guide to Angular Debugging](https://christianlydemann.com/the-ultimate-guide-to-angular-debugging/)
